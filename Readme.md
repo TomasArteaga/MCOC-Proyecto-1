@@ -1,56 +1,56 @@
 INTRODUCCION
 ======
 
-En el proyecto 1 se va analizar los distintos casos de parametros y condiciones de borde con el fin de observar el estudio del comportamiento  del calor en el hormigon masivo en una dimension.
+En el proyecto 1 se va analizar los distintos casos con parametros y condiciones de borde con el fin de observar el estudio del comportamiento  del calor en el hormigon masivo en una dimension.
 
-EJEMPLOS
+Casos
 ==========
-Ejemplo 1:
+Caso 1:
 ```
 1
 
 ```
-Ejemplo 2:
+Caso 2:
 ```
 2
 
 ```
-Ejemplo 3:
+Caso 3:
 ```
 3
 
 ```
-Ejemplo 4:
+Caso 4:
 ```
 4
 
 ```
-Ejemplo 5:
+Caso 5:
 ```
 5
 
 ```
-Ejemplo 6:
+Caso 6:
 ```
 6
 
 ```
-Ejemplo 7:
+Caso 7:
 ```
 7
 
 ```
-Ejemplo 8:
+Caso 8:
 ```
 8
 
 ```
-Ejemplo 9:
+Caso 9:
 ```
 9
 
 ```
-Ejemplo 10:
+Caso 10:
 ```
 10
 
