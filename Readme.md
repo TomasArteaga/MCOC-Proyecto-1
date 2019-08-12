@@ -262,7 +262,7 @@ RESULTADOS
 ========
 
 Output de la consola 1:
-![Resultado](caso1.png)
+![Results](caso1.png)
 
 
 Output de la consola 3:
