@@ -327,6 +327,7 @@ Output de la consola 11:
 
 
 Output de la consola 12:
+![Result](caso12.PNG)
 ![Results](caso12.PNG)
 
 Recursos
