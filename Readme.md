@@ -59,11 +59,9 @@ RESULTADOS
 =========
 
 Output de la consola 1:
+![Results](caso1.png)
 
-```
-1
 
-```
 Output de la consola 3:
 
 ```
