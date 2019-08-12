@@ -56,10 +56,10 @@ Caso 10:
 
 ```
 RESULTADOS
-=========
+========
 
 Output de la consola 1:
-![Results](caso1.png)
+![Resultado](caso1.png)
 
 
 Output de la consola 3:
