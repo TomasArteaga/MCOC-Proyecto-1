@@ -263,47 +263,47 @@ RESULTADOS
 
 Output de la consola 1:
 
-![Results](caso1.png)
+![Results](caso1.PNG)
 
 
 Output de la consola 2:
-![Results](caso2.png)
+![Results](caso2.PNG)
 ```
 2
 
 ```
 Output de la consola 3:
-![Results](caso3.png)
+![Results](caso3.PNG)
 ```
 3
 
 ```
 Output de la consola 4:
-![Results](caso4.png)
+![Results](caso4.PNG)
 ```
 4
 
 ```
 Output de la consola 5:
-![Results](caso5.png)
+![Results](caso5.PNG)
 ```
 5
 
 ```
 Output de la consola 6:
-![Results](caso6.png)
+![Results](caso6.PNG)
 ```
 6
 
 ```
 Output de la consola 7:
-![Results](caso7.png)
+![Results](caso7.PNG)
 ```
 7
 
 ```
 Output de la consola 8:
-![Results](caso8.png)
+![Results](caso8.PNG)
 ```
 8
 
@@ -315,11 +315,19 @@ Output de la consola 9:
 
 ```
 Output de la consola 10:
-![Results](caso10.png)
+![Results](caso10.PNG)
 ```
 10
 
 ```
+
+Output de la consola 11:
+![Results](caso11.PNG)
+
+
+
+Output de la consola 12:
+![Results](caso12.PNG)
 
 Recursos
 ==========
