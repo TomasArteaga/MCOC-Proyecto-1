@@ -262,59 +262,60 @@ RESULTADOS
 ========
 
 Output de la consola 1:
+
 ![Results](caso1.png)
 
 
-Output de la consola 3:
-
+Output de la consola 2:
+![Results](caso2.png)
 ```
 2
 
 ```
-Output de la consola 2:
-
+Output de la consola 3:
+![Results](caso3.png)
 ```
 3
 
 ```
 Output de la consola 4:
-
+![Results](caso4.png)
 ```
 4
 
 ```
 Output de la consola 5:
-
+![Results](caso5.png)
 ```
 5
 
 ```
 Output de la consola 6:
-
+![Results](caso6.png)
 ```
 6
 
 ```
 Output de la consola 7:
-
+![Results](caso7.png)
 ```
 7
 
 ```
 Output de la consola 8:
-
+![Results](caso8.png)
 ```
 8
 
 ```
 Output de la consola 9:
-
+![Results](caso9.png)
 ```
 9
 
 ```
 Output de la consola 10:
-
+![Results](caso10.png)
 ```
 10
 
