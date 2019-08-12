@@ -313,65 +313,7 @@ Condiciones iniciales u0(x)	5+10*exp(-(x-0.5)**2/0.1**2)
 ```
 RESULTADOS
 ========
-
-Output de la consola 1:
-![Resultado](caso1.png)
-
-
-Output de la consola 3:
-
-```
-2
-
-```
-Output de la consola 2:
-
-```
-3
-
-```
-Output de la consola 4:
-
-```
-4
-
-```
-Output de la consola 5:
-
-```
-5
-
-```
-Output de la consola 6:
-
-```
-6
-
-```
-Output de la consola 7:
-
-```
-7
-
-```
-Output de la consola 8:
-
-```
-8
-
-```
-Output de la consola 9:
-
-```
-9
-
-```
-Output de la consola 10:
-
-```
-10
-
-```
+Fotos ya subidas con respecto a cada caso
 
 Recursos
 ==========
