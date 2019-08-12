@@ -86,7 +86,60 @@ Condiciones iniciales u0(x)
 
 
 ```
+
 Caso 4:
+
+```
+
+
+
+Largo (L)
+1 m
+Subdivisiones
+100
+Conductividad Térmica (k)
+10,5 m^2/s
+Calor Específico (c)
+1100 j/Kg°c
+Densidad Hormigón
+2400 Kg/m^3
+dt
+1 s
+Condición de borde k=0
+10 °c
+Condición de borde final k=n
+25 °c
+Condiciones iniciales u0(x)
+10*exp(-(x-0.5)**2/0.1**2)
+
+```
+Caso 5:
+
+```
+
+
+
+Largo (L)
+1 m
+Subdivisiones
+300
+Conductividad Térmica (k)
+5.5 m^2/s
+Calor Específico (c)
+900 j/Kg°c
+Densidad Hormigón
+2400.0 Kg/m^3
+dt
+1 s
+Condición de borde k=0
+10 °c
+Condición de borde final k=n
+25 °c
+Condiciones iniciales u0(x)
+10*exp(-(x-0.5)**2/0.1**2)
+
+```
+Caso 6:
 ```
 
 
@@ -112,7 +165,7 @@ Condiciones iniciales u0(x)
 
 
 ```
-Caso 5:
+Caso 7:
 ```
 
 
@@ -139,7 +192,7 @@ Condiciones iniciales u0(x)
 
 
 ```
-Caso 6:
+Caso 8:
 ```
 
 
@@ -165,7 +218,7 @@ Condiciones iniciales u0(x)
 
 
 ```
-Caso 7:
+Caso 9:
 ```
 
 
@@ -191,7 +244,7 @@ Condiciones iniciales u0(x)
 
 
 ```
-Caso 8:
+Caso 10:
 ```
 
 
@@ -217,7 +270,7 @@ Condiciones iniciales u0(x)
 
 
 ```
-Caso 9:
+Caso 11:
 ```
 
 
@@ -243,7 +296,7 @@ Condiciones iniciales u0(x)
 
 
 ```
-Caso 10:
+Caso 12:
 ```
 
 Largo (L)	1m
@@ -262,73 +315,63 @@ RESULTADOS
 ========
 
 Output de la consola 1:
+![Resultado](caso1.png)
 
-![Results](caso1.PNG)
 
+Output de la consola 3:
 
-Output de la consola 2:
-![Results](caso2.PNG)
 ```
 2
 
 ```
-Output de la consola 3:
-![Results](caso3.PNG)
+Output de la consola 2:
+
 ```
 3
 
 ```
 Output de la consola 4:
-![Results](caso4.PNG)
+
 ```
 4
 
 ```
 Output de la consola 5:
-![Results](caso5.PNG)
+
 ```
 5
 
 ```
 Output de la consola 6:
-![Results](caso6.PNG)
+
 ```
 6
 
 ```
 Output de la consola 7:
-![Results](caso7.PNG)
+
 ```
 7
 
 ```
 Output de la consola 8:
-![Results](caso8.PNG)
+
 ```
 8
 
 ```
 Output de la consola 9:
-![Results](caso9.png)
+
 ```
 9
 
 ```
 Output de la consola 10:
-![Results](caso10.PNG)
+
 ```
 10
 
 ```
-
-Output de la consola 11:
-![Results](caso11.PNG)
-
-
-
-Output de la consola 12:
-![Result](caso12.PNG)
-![Results](caso12.PNG)
 
 Recursos
 ==========
