@@ -52,7 +52,17 @@ Caso 9:
 ```
 Caso 10:
 ```
-10
+
+Largo (L)	1m
+Subdivisiones	100
+Conductividad Térmica (k)	5,5 m^2/s
+Calor Específico (c)	900 j/Kg°c
+Densidad Hormigón	2400 Kg/m^3
+dt	1 s
+Condición de borde k=0	0 °c
+Condición de borde final k=n	30 °c
+Condiciones iniciales u0(x)	5+10*exp(-(x-0.5)**2/0.1**2)
+
 
 ```
 RESULTADOS
