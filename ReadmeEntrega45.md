@@ -73,3 +73,9 @@ Resultados
 ![frame_       225](https://user-images.githubusercontent.com/53712876/63398569-06ecaf80-c39c-11e9-951c-78d9cd65bad0.png)
 
 Dados los resultados, podemos ver que la temperatura se disipa a lo largo del eje y, manteniendo su valor constante en x, esto se debe a que las condiciones de borde permiten el cambio de temperatura entre el muro y el exterior.
+
+Recursos
+==========
+
+https://www.dropbox.com/s/9ugea32ulu186oi/2019%2C%20Methodology%20Comparison%20for%20Concrete%20Adiabatic%20Temperature%20Rise%20%28Riding%20et%20al.%29.pdf?dl=0
+
