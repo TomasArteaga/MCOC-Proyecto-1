@@ -31,6 +31,17 @@ Parámetros:
 Resultados
 ==========
 
+![frame_         0](https://user-images.githubusercontent.com/53712876/63398488-cc831280-c39b-11e9-89c8-f7e1a2a47255.png)
+![frame_        15](https://user-images.githubusercontent.com/53712876/63398508-dad12e80-c39b-11e9-9077-205c6f1d2c9c.png)
+![frame_        41](https://user-images.githubusercontent.com/53712876/63398519-e6245a00-c39b-11e9-982b-fc17c3e51e83.png)
+![frame_        90](https://user-images.githubusercontent.com/53712876/63398527-efadc200-c39b-11e9-9242-7fa799f51106.png)
+![frame_       105](https://user-images.githubusercontent.com/53712876/63398534-f4727600-c39b-11e9-804b-dc29fed0f290.png)
+![frame_       121](https://user-images.githubusercontent.com/53712876/63398546-fb998400-c39b-11e9-9959-a6e52c994ec1.png)
+![frame_       139](https://user-images.githubusercontent.com/53712876/63398557-ffc5a180-c39b-11e9-8114-54e86a5e69d4.png)
+![frame_       225](https://user-images.githubusercontent.com/53712876/63398569-06ecaf80-c39c-11e9-951c-78d9cd65bad0.png)
+
+De los resultados obtenidos se puede apreciar que el cambio de temperatura en el hormigón es cíclica, además, al tener los bordes temperatura constante (por condiciones de borde), la temperatura tiende a disiparse hacia al centro.
+
 Caso II
 =======
 Condiciones de Borde:
