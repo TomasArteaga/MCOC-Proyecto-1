@@ -71,3 +71,5 @@ Resultados
 ![frame_       121](https://user-images.githubusercontent.com/53712876/63398546-fb998400-c39b-11e9-9959-a6e52c994ec1.png)
 ![frame_       139](https://user-images.githubusercontent.com/53712876/63398557-ffc5a180-c39b-11e9-8114-54e86a5e69d4.png)
 ![frame_       225](https://user-images.githubusercontent.com/53712876/63398569-06ecaf80-c39c-11e9-951c-78d9cd65bad0.png)
+
+Dados los resultados, podemos ver que la temperatura se disipa a lo largo del eje y, manteniendo su valor constante en x, esto se debe a que las condiciones de borde permiten el cambio de temperatura entre el muro y el exterior.
